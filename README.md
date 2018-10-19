@@ -11,8 +11,12 @@
 check_cpu_stats_by_ssh.py
 ```
 ### Check Marathon services
+This programme check the service runing uder marathon if it's in running state or in failed stat
+Option :
+'-C', '--container : the service or container to check
+'-M' : The name of the dcos master 
 ```bash
-check_marathon_services.py	
+check_marathon_services.py	-C
 ```
 ### Check ntp sync
 ```bash
