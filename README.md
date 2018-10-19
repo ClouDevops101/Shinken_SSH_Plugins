@@ -2,6 +2,9 @@
 <a href="http://bitly.com/2grT54q"><img src="https://cdn.codementor.io/badges/i_am_a_codementor_dark.svg" alt="I am a codementor" style="max-width:100%"/></a><a href="http://bitly.com/2grT54q"><img src="http://www.shinken-monitoring.org/img/LogoFrameworkBlack.png" height="50"> 
  [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WX4EKLLLV49WG)
 
+## Desciption :
+
+In a cloud environment you don't have the configuration of the target machine before deploying it, so monitoring the machine over ssh it's a best compromise that handle this problem, shinken is a full open source project written in python fron nagios core, and with this couple of plugins you have the heavy artillery to deploy and supervise your AWS / AZURE / GCP host from on-premise wether you have an hybrid cloud or a full public cloud
 
 ## Common option :
 ```python
