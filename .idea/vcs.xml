@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Shinken-REST-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../currency-tracker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mod-mongo-live-config" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../shinken-fork" vcs="Git" />
   </component>
